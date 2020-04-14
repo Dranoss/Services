@@ -1,0 +1,6 @@
+    [
+      {"name": "Mojito", "price": 8 , "img": "https://www.thespruceeats.com/thmb/jf0pKhOH_ZjOocUQW2MVBHSM0YU=/1000x668/filters:fill(auto,1)/mojito-5a8f339fba61770036ec61d8.jpg"},
+      {"name": "Piña Colada", "price": 10, "img": "https://img.cuisineaz.com/400x320/2017-08-11/i131486-pina-colada-au-thermomix.jpeg"},
+      {"name": "Gin Tonic", "price": 12, "img": "https://www.platingsandpairings.com/wp-content/uploads/2019/04/spanish-gin-and-tonic-9.jpg"},
+      {"name": "Moscow Mule", "price": 12, "img": "https://www.papillesetpupilles.fr/wp-content/uploads/2019/07/Moscow-Mule-%C2%A9-Brent-Hofacker-shutterstock.jpg"}
+    ]
